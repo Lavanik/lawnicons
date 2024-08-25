@@ -12,7 +12,9 @@ import javax.inject.Inject
 import kotlinx.coroutines.launch
 
 @HiltViewModel
-class LawniconsViewModel @Inject constructor(private val iconRepository: IconRepository) :
+class LawniconsViewModel @Inject constructor(
+    private val iconRepository: IconRepository,
+) :
     ViewModel() {
     @JvmField
     val iconInfoModel = iconRepository.iconInfoModel
@@ -22,6 +24,8 @@ class LawniconsViewModel @Inject constructor(private val iconRepository: IconRep
 
     @JvmField
     val iconRequestModel = iconRepository.iconRequestList
+
+    var expandSearch by mutableStateOf(false)
 
     private var _searchMode by mutableStateOf(SearchMode.LABEL)
     private var _searchTerm by mutableStateOf("")
@@ -49,7 +53,7 @@ class LawniconsViewModel @Inject constructor(private val iconRepository: IconRep
     fun clearSearch() {
         _searchTerm = ""
         viewModelScope.launch {
-            iconRepository.clear()
+            iconRepository.clearSearch()
         }
     }
 }
