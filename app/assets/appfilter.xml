@@ -40,13 +40,13 @@
   <item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.IncognitoActivityLauncher}" drawable="_1dm_plus" name="1dm+" />
   <item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_plus" name="1dm+" />
   <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="_1dm_plus" name="1dm+" />
-  <item component="ComponentInfo{photoeditor.photoretouch.removeobjects.retouch/retouch.photoeditor.remove.activity.DummyActivity}" drawable="ai_retouch_remove_objects" name="Ai Retouch"/>
+  <item component="ComponentInfo{photoeditor.photoretouch.removeobjects.retouch/retouch.photoeditor.remove.activity.DummyActivity}" drawable="ai_retouch_remove_objects" name="Ai Retouch" />
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.amazonpay.AmazonPayHomeActivityAliasWoShortcuts}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.amazonpay.AmazonPayHomeActivityAlias}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.twa.CustomTWALauncherActivity}" drawable="amazon_shopping" name="Amazon Shopping" />
-  <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" name="Apktool M" />
+  <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktoolm" name="Apktool M" />
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="app_manager" name="App Manager" />
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="app_manager" name="App Manager" />
   <item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="app_manager" name="App Manager Debug" />
