@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>mixplorer-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="g832">
+		<path id="path2" class="s0" d="m9.9 14.9v-9.9l-4.9 4.2-5-4.2v9.9z"/>
+		<path id="rect4" class="s0" d="m14.5 9v5.9h-3v-5.9z"/>
+		<path id="path6" class="s0" d="m15.7 10.8h8.3l-2 4.1 2 4.2h-8.3l2-4.2z"/>
+	</g>
+</svg>

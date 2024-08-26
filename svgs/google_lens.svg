@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>google_lens-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: none;stroke: #000000;stroke-width: 2.4 } 
+	</style>
+	<path id="circle4" class="s0" d="m12.4 17.1c-2.6 0-4.7-2.1-4.7-4.7 0-2.6 2.1-4.7 4.7-4.7 2.6 0 4.7 2.1 4.7 4.7 0 2.6-2.1 4.7-4.7 4.7z"/>
+	<path id="circle6" class="s0" d="m20.3 23c-1.5 0-2.7-1.2-2.7-2.7 0-1.5 1.2-2.7 2.7-2.7 1.5 0 2.7 1.2 2.7 2.7 0 1.5-1.2 2.7-2.7 2.7z"/>
+	<path id="path8" fill-rule="evenodd" class="s1" d="m2 9.8v-3c0-2.6 2.2-4.8 4.8-4.8h3"/>
+	<path id="path10" fill-rule="evenodd" class="s1" d="m22.7 9.8v-3c0-2.6-2.1-4.8-4.8-4.8h-3"/>
+	<path id="path12" fill-rule="evenodd" class="s1" d="m2 14.9v3c0 2.7 2.2 4.8 4.8 4.8h3"/>
+</svg>

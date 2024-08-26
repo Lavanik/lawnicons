@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>termux-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="g829">
+		<path id="path2" class="s0" d="m0 2h3.6l7.2 9.6-7.2 9.6h-3.6l7.2-9.6"/>
+		<path id="path4" class="s0" d="m24 18.8v2.4h-10.8v-2.4z"/>
+	</g>
+</svg>
