@@ -490,7 +490,7 @@
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.stub.MainActivity}" drawable="twitter" name="Twitter" />
   <item component="ComponentInfo{com.twitter.android/com.twitter.applib.StartActivity}" drawable="twitter" name="Twitter" />
   <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon5}" drawable="twitter" name="Twitter" />
-  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.seasonal_icon20}" drawable="Twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.seasonal_icon20}" drawable="twitter" name="Twitter" />
   <item component="ComponentInfo{com.twitter.android/com.yrwl.admanager.bytedance.SplashActivity}" drawable="twitter" name="Twitter" />
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viper4android" name="ViPER4Android FX" />
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}" drawable="viper4android" name="ViPER4Android FX" />
