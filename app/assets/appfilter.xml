@@ -55,6 +55,23 @@
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurora_store" name="Aurora Store" />
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurora_store" name="Aurora Store" />
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.MainActivity}" drawable="aurora_store" name="Aurora Store" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.SusIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.MonetIconExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIconExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.SapphireIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramDiscord}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.MonetIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.AmethystIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AmethystIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramAlt}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.Dsgn480Icon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.GoogleIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.NeoIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.eyefilter.nightmode.bluelightfilter/com.eyefilter.nightmode.bluelightfilter.ui.WelcomeActivity}" drawable="blue_light_filter" name="Blue Light Filter" />
   <item component="ComponentInfo{com.coveiot.android.boat/com.coveiot.android.leonardo.onboarding.splash.activities.ActivitySplash}" drawable="boat_crest" name="Boat Crest" />
   <item component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}" drawable="brawl_stars" name="Brawl Stars" />
@@ -62,6 +79,37 @@
   <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" name="Browser" />
   <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" name="Calculator" />
   <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" name="Camera" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Dark_Bra}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.AquaIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Aqua}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry_NY}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Dark}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Dark_NY}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Green}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Laguna}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Lavanda}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Monet_Pixel}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Monet_Samsung}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Night}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunset}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Turbo}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_White_Cherry}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.DarkIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.GreenIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.LagunaIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.LavandaIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.Monet_Icon_Pixel}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.Monet_Icon_Samsung}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.NoxIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.Old_Icon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.PremiumIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.SunriseIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.SunsetIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.TurboIcon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.White_Icon}" drawable="cherrygram" name="Cherrygram" />
+  <item component="ComponentInfo{uz.unnarsx.cherrygram/.CG_Icon_Cherry}" drawable="cherrygram" name="Cherrygram Beta" />
   <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" name="Clock" />
   <item component="ComponentInfo{com.blogspot.yashas003.colorpalette/com.blogspot.yashas003.colorpalette.activities.SplashScreen}" drawable="color_palette" name="Color Palette" />
   <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" name="Contacts" />
@@ -376,6 +424,44 @@
   <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.home.HomeActivity}" drawable="swift_backup" name="Swift Backup" />
   <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" name="Swift Backup" />
   <item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" name="Tachiyomi SY" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.AyuGramSpotify}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.MonetIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.AquaIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.CloudIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DarkIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.market.DefaultIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.MaterialIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.MerioIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.MusheenIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.NeonIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.NoxIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.OldSchoolIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.RainbowIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.SpaceIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.TurboIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.VintageIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.CloudIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DarkIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.MaterialIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.MerioIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.MusheenIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NeonIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.OldSchoolIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.RainbowIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.SpaceIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.TurboIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NoxIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.VintageIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.PremiumIcon}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.messenger.AquaIcon}" drawable="telegram" name="Telegram Beta" />
+  <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.messenger.DefaultIcon}" drawable="telegram" name="Telegram Beta" />
+  <item component="ComponentInfo{org.telegram.messenger.beta/org.telegram.ui.LaunchActivity}" drawable="telegram" name="Telegram Beta" />
   <item component="ComponentInfo{com.termux/.app.TermuxActivity}" drawable="termux" name="Termux" />
   <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" name="Termux" />
   <item component="ComponentInfo{com.termux/com.termux.app.TermuxFailsafeActivity}" drawable="termux" name="Termux" />
@@ -386,6 +472,26 @@
   <item component="ComponentInfo{com.termux.tasker/com.termux.tasker.activities.TermuxTaskerActivity}" drawable="termux" name="Termux:Tasker" />
   <item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}" drawable="termux" name="Termux:Widget" />
   <item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="trucaller" name="Truecaller" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon10}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon11}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon12}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon13}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon14}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon2}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon3}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon4}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon6}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon7}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon8}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.example.nm.TwitterLauncherMainActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.android.MainActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.android.stub.MainActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.applib.StartActivity}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.icon5}" drawable="twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.twitter.subscriptions.appicon.implementation.seasonal_icon20}" drawable="Twitter" name="Twitter" />
+  <item component="ComponentInfo{com.twitter.android/com.yrwl.admanager.bytedance.SplashActivity}" drawable="twitter" name="Twitter" />
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viper4android" name="ViPER4Android FX" />
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}" drawable="viper4android" name="ViPER4Android FX" />
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="viper4android" name="ViPER4Android FX" />
