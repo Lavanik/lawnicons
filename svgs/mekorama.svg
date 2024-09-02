@@ -5,7 +5,7 @@
 		.s1 { fill: #000000;stroke: #000000;stroke-linecap: round;stroke-linejoin: round } 
 		.s2 { fill: #000000;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 25 } 
 	</style>
-	<g id="Folder 1">
+	<g id="layer">
 		<path fill-rule="evenodd" class="s0" d="m422.2 760.4h217.1l180.9-54.3v-361.8l-180.9 54.3h-217.1l-180.9-54.3v361.8z"/>
 		<path fill-rule="evenodd" class="s0" d="m295.5 271.9l-54.2 18.1v54.3m578.9 0v-54.3l-54.3-18.1z"/>
 		<path fill-rule="evenodd" class="s0" d="m327 367.8c-42-72.8-42-162.4 0-235.2 42-72.8 119.6-117.6 203.7-117.6 84 0 161.6 44.8 203.6 117.6 42 72.8 42.1 162.4 0 235.2"/>
