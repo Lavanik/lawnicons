@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><path stroke="#000" stroke-linejoin="round" stroke-width="12" d="M96 22v74c20.435 0 37-16.566 37-37s-16.565-37-37-37zm0 74v74c-20.434 0-37-16.565-37-37s16.566-37 37-37zm74 0H96c0 20.435 16.565 37 37 37s37-16.565 37-37zm-74 0H22c0-20.434 16.566-37 37-37s37 16.566 37 37z"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>google_photos-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path class="s0" d="m6 6c3.3 0 6 2.5 6 5.5v0.5h-11.5c-0.3 0-0.5-0.2-0.5-0.5 0-3 2.7-5.5 6-5.5z"/>
+	<path class="s0" d="m18 6c0 3.3-2.5 6-5.5 6h-0.5v-11.5c0-0.3 0.2-0.5 0.5-0.5 3 0 5.5 2.7 5.5 6z"/>
+	<path class="s0" d="m18 18c-3.3 0-6-2.5-6-5.5v-0.5h11.5c0.3 0 0.5 0.2 0.5 0.5 0 3-2.7 5.5-6 5.5z"/>
+	<path class="s0" d="m6 18c0-3.3 2.5-6 5.5-6h0.5v11.5c0 0.3-0.2 0.5-0.5 0.5-3 0-5.5-2.7-5.5-6z"/>
+</svg>

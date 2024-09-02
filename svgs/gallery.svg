@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="m25 137 32.673-32.673a6 6 0 0 1 8.568.084l16.518 17.178a6 6 0 0 0 8.568.084l34.488-34.488a6 6 0 0 1 8.427-.058L167 119"/><rect width="142" height="142" x="25" y="25" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" rx="6"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>gallery-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m6 9.8v4.5c1.9 0.2 3 0.7 4.2 1.9h5.2c-1-2-2.1-2.9-3.9-4.2-1.8-1.2-3.3-2-5.5-2.2z"/>
+	<path id="Layer" class="s0" d="m4.3 9.8h-4.3v11.1c0 0.4 0.2 0.8 0.4 1 0.3 0.3 0.7 0.5 1.1 0.5h21c0.4 0 0.8-0.2 1.1-0.5 0.2-0.2 0.4-0.6 0.4-1v-2.9h-19.7z"/>
+	<path id="Layer" class="s0" d="m4.3 6h13.7v-4.4h-16.5c-0.4 0-0.8 0.2-1.1 0.5-0.2 0.2-0.4 0.6-0.4 1v4.7h4.3z"/>
+	<path id="Layer" class="s0" d="m22.5 1.6h-2.8v14.6h4.3v-13.1c0-0.4-0.2-0.8-0.4-1-0.3-0.3-0.7-0.5-1.1-0.5z"/>
+	<path id="Layer" class="s0" d="m15.8 12.3c-1.4 0-2.5-1.1-2.5-2.5 0-1.4 1.1-2.5 2.5-2.5 1.4 0 2.5 1.1 2.5 2.5 0 1.4-1.1 2.5-2.5 2.5z"/>
+</svg>

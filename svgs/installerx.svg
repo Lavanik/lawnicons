@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="12" d="M155.9 36.2V107l-36.3 57.8H41.5l43.2-35.2L22 59.9h89.7l17.2-23.7zm-44.2 23.7 44.2 47.1m-71.2 22.6 32.3 35.2m38.9-128.6L170 51.3m0 0h-14.1"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="24" height="24">
+	<title>installerx-svg</title>
+	<style>
+		.s0 { fill: #00000c } 
+	</style>
+	<path id="path_0" class="s0" d="m97.5 10.6v13.4h10.5z"/>
+	<path id="path_1" class="s0" d="m93.4 55.8v-49h-19.8l-10.2 15z"/>
+	<path id="path_2" class="s0" d="m59.8 24.2h-59.8l66.9 75.7 25.9-38.4z"/>
+	<path id="path_3" class="s0" d="m62.5 101.2l-22.1-25-29.2 25z"/>
+</svg>

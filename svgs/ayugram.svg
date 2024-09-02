@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" viewBox="0 0 192 192"><path d="M22 138h42l24 32h16l24-32h42"/><path stroke-width="10" d="M110 80H82"/><path d="M103 22H89M22 138 89 22"/><path stroke-width="10" d="M66 138 96 22m30 116L96 22"/><path d="M170 138 103 22"/><path stroke-width="10" d="M96 170V80"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="24" height="24">
+	<title>ayugram-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="g_0">
+		<path class="s0" d="m63.5 9.8c-0.9-1.6-3.4-0.6-3 1.2l15.2 70.1c0.1 0.7 0.8 1.3 1.6 1.3h28.8c1.3 0 2.1-1.5 1.4-2.6z"/>
+		<path class="s0" d="m57.1 97.7c0 1.6 2 2.3 3 1l9.4-12.3c0.3-0.4 0.4-0.9 0.3-1.4l-9.4-43.6c-0.4-1.9-3.3-1.6-3.3 0.4z"/>
+		<path class="s0" d="m44.2 9.8c1-1.6 3.4-0.6 3 1.2l-15.1 70.1c-0.2 0.7-0.9 1.3-1.6 1.3h-28.8c-1.3 0-2.1-1.5-1.4-2.6z"/>
+		<path class="s0" d="m50.6 97.7c0 1.6-2 2.3-3 1l-9.4-12.3c-0.3-0.4-0.4-0.9-0.3-1.4l9.4-43.6c0.4-1.9 3.3-1.6 3.3 0.4z"/>
+	</g>
+</svg>

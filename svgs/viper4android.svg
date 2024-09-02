@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="m170 22.068-47.52 95.118m0 0L74.889 22H22l74 148z"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 193" width="24" height="24">
+	<title>viper4android-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m0.8 3.3c0.9 1.8 22.9 45.3 48.8 96.5l47.1 93.2 48.1-96.2c26.5-53 48.2-96.4 48.2-96.5 0-0.2-6.2-0.3-13.7-0.3h-13.7l-24.1 48.1-24.1 48.2-24-48.2-24.1-48.1h-70.3z"/>
+</svg>

@@ -1,1 +1,10 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m60 75 31.067-44.874c2.386-3.447 7.48-3.447 9.866 0L132 75M96 98l-22 38h44L96 98Z" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M22.213 83.574C21.178 79.758 24.045 76 27.991 76h136.018c3.946 0 6.813 3.758 5.778 7.574l-19.265 73a5.99 5.99 0 0 1-5.778 4.426H47.256a5.99 5.99 0 0 1-5.778-4.426l-19.265-73Z" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>aurora_store-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: none;stroke: #000000;stroke-linecap: round;stroke-width: 2 } 
+	</style>
+	<path id="rect1346" fill-rule="evenodd" class="s0" d="m22.2 8.6c1.2 0 2.1 1.1 1.7 2.3l-2.6 9.7c-0.2 0.7-0.8 1.2-1.5 1.2h-15.6c-0.7 0-1.3-0.5-1.5-1.2l-2.6-9.7c-0.4-1.2 0.5-2.3 1.7-2.3zm-10.7 2.7c-0.5 0.3-0.7 0.9-0.4 1.4l3.6 6c0.3 0.5 0.9 0.7 1.4 0.4 0.5-0.3 0.7-0.9 0.4-1.4l-3.6-6c-0.1-0.3-0.4-0.5-0.6-0.5q-0.2-0.1-0.3-0.1-0.3 0.1-0.5 0.2zm-3.3 5.3q0.1 0 0.2-0.1h2.2l1.1-1.7-1.1-1.8q-0.1-0.1-0.2-0.2zm-0.8 1.6c0 0.6 0.5 1 1.1 1h5.9q-0.1-0.1-0.1-0.2l-1.2-1.9h-4.6c-0.6 0-1.1 0.5-1.1 1.1z"/>
+	<path id="path1934" fill-rule="evenodd" class="s1" d="m7.2 10.4l4.8-8.4"/>
+	<path id="path2034" class="s0" d="m14.1 3.2l-1.4 2.4 3.1 5.4q0.1 0.2 0.3 0.3 0.2 0.2 0.4 0.3 0.2 0 0.5 0 0.2 0 0.4-0.2 0.2-0.1 0.3-0.3 0.2-0.2 0.3-0.4 0-0.2 0-0.5 0-0.2-0.2-0.4z"/>
+</svg>

@@ -1,1 +1,10 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M30 136v22c0 6.627 5.373 12 12 12h108c6.627 0 12-5.373 12-12v-22m-132 0v-3.192c0-3.086 1.182-6.049 3.61-7.954C41.357 118.773 61.71 106 96 106m66 30v-3.192c0-3.086-1.182-6.049-3.61-7.954C150.643 118.773 130.289 106 96 106" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><circle cx="96" cy="49" r="27" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>google_contacts-svg</title>
+	<style>
+		.s0 { fill: #fff1c0 } 
+	</style>
+	<path id="Layer" class="s0" d="m12 9.6c-2.7 0-4.8-2.1-4.8-4.8 0-2.7 2.1-4.8 4.8-4.8 2.7 0 4.8 2.1 4.8 4.8 0 2.7-2.1 4.8-4.8 4.8z"/>
+	<path id="Layer" class="s0" d="m6 18c0-3.3 2.7-6 6-6h4.8c2.7 0 4.8 2.1 4.8 4.8v2.4c0 2.7-2.1 4.8-4.8 4.8h-9.6c-0.7 0-1.2-0.5-1.2-1.2z"/>
+	<path id="Layer" class="s0" d="m6.8 12.2c-2.6 0.7-4.4 3.1-4.4 5.8v4.8c0 0.7 0.5 1.2 1.2 1.2h0.8q-0.2-0.6-0.2-1.2v-4.8c0-2.3 1-4.3 2.6-5.8z"/>
+	<path id="Layer" class="s0" d="m7.2 24h9.6c2.7 0 4.8-2.1 4.8-4.8v-2.4c0-2.7-2.1-4.8-4.8-4.8h-4.8c-3.3 0-6 2.7-6 6v4.8c0 0.7 0.5 1.2 1.2 1.2z"/>
+</svg>

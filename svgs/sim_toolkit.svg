@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" stroke="#000" stroke-linecap="round" stroke-width="12" viewBox="0 0 192 192"><path d="M64 79v34m12-61v12.515a6 6 0 0 1-1.757 4.242L64 79m12 61v-12.515a6 6 0 0 0-1.757-4.242L64 113m52 27v-12.515a6 6 0 0 1 1.757-4.242L128 113M22 79h42m-42 34h42m64 0V85a6 6 0 0 1 6-6h36m-42 34h42"/><path d="M146 140H28a6 6 0 0 1-6-6V58a6 6 0 0 1 6-6h136a6 6 0 0 1 6 6v58"/><path d="M170 116a23.996 23.996 0 0 1-24 24"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>sim_toolkit-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m21.6 21.6c0 1.3-1.1 2.4-2.4 2.4h-14.4c-1.3 0-2.4-1.1-2.4-2.4v-14.4l7.2-7.2h9.6c1.3 0 2.4 1.1 2.4 2.4zm-13.2-3.6h-2.4v2.4h2.4zm9.6 0h-2.4v2.4h2.4zm-12-7.2v4.8h2.4v-4.8zm4.8 4.8v4.8h2.4v-4.8zm2.4-4.8h-2.4v2.4h2.4zm2.4 0v4.8h2.4v-4.8z"/>
+</svg>

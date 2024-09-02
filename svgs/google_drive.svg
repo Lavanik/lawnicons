@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" viewBox="0 0 192 192"><path d="M96 30H80.87a12 12 0 0 0-10.348 5.926l-46.917 79.932a12 12 0 0 0 .059 12.249l16.84 28.067A12 12 0 0 0 50.794 162H96m0-132h15.129a12 12 0 0 1 10.349 5.926l46.917 79.932a12 12 0 0 1-.059 12.249l-16.84 28.067a12 12 0 0 1-10.29 5.826H96"/><path d="m59 127 37-62 37 62z"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>google_drive-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m20.2 22.3q0.6-0.3 0.9-0.9l0.5-0.7 2.1-3.7q0.3-0.6 0.3-1.2 0-0.7-0.3-1.2l-3.5-6.1-3.5-6q-0.4-0.6-0.9-0.9-0.6-0.4-1.3-0.4h-5q-0.7 0-1.3 0.4z"/>
+	<path id="Layer" class="s0" d="m13.7 15.8h-13.7q0 0.6 0.3 1.2l1.5 2.6 1.1 1.8q0.3 0.6 0.9 0.9 0.5 0.4 1.2 0.4h12.6z"/>
+	<path id="Layer" class="s0" d="m1 13.4l5.6-9.8 4 6.9-1.7 2.9z"/>
+</svg>
