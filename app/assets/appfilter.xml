@@ -191,9 +191,12 @@
   <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.orca.ThreadListLauncherActivity}" drawable="facebook" name="Facebook" />
   <item component="ComponentInfo{com.facebook.lite/com.dzebb.handler.a}" drawable="facebook" name="Facebook Lite" />
   <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" name="Facebook Lite" />
+  <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" name="Files" />
+  <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="firefox" name="Fennec" />
+  <item component="ComponentInfo{org.mozilla.firefox/com.google.android.archive.ReactivateActivity}" drawable="firefox" name="Firefox" />
+  <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" name="Firefox" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.Flipkart}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" name="FlipKart" />
-  <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" name="Files" />
   <item component="ComponentInfo{money.fold.marble/money.fold.marble.ui.screen.splash.SplashActivity_original}" drawable="fold" name="Fold" />
   <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity}" drawable="gallery" name="Gallery" />
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="gboard" name="Gboard" />
