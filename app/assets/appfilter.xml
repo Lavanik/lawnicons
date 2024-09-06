@@ -5,7 +5,7 @@
   <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
-  <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
+  <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_google_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
@@ -19,7 +19,7 @@
   <calendar component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.ACalendar}" prefix="themed_icon_calendar_" name="Calendar" />
   <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar" />
   <!-- Static Calendars -->
-  <item drawableIgnore="true" component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
+  <item drawableIgnore="true" component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_google_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
@@ -48,6 +48,8 @@
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.twa.CustomTWALauncherActivity}" drawable="amazon_shopping" name="Amazon Shopping" />
   <item component="ComponentInfo{com.anilab.android/com.anilab.android.ui.activity.MainActivity}" drawable="anilab" name="Anilab" />
+  <item component="ComponentInfo{xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="aniyomi" name="Aniyomi" />
+  <item component="ComponentInfo{xyz.jmir.tachiyomi.mi.debug/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="aniyomi" name="Aniyomi Debug" />
   <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktoolm" name="Apktool M" />
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="appmanager" name="App Manager" />
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="appmanager" name="App Manager" />
@@ -163,6 +165,11 @@
   <item component="ComponentInfo{com.discord/com.discord.screens.ScreenMain}" drawable="discord" name="Discord" />
   <item component="ComponentInfo{com.cv.docscanner/com.cv.docscanner.activity.AppMainActivity}" drawable="doc_scanner" name="Document Scanner" />
   <item component="ComponentInfo{com.cv.docscanner/com.cv.docscanner.Splash.SplashActivity}" drawable="doc_scanner" name="Document Scanner" />
+  <item component="ComponentInfo{com.atmos/com.atmos.ds1appUI.MainActivity}" drawable="dolby" name="Dolby" />
+  <item component="ComponentInfo{com.ontim.dolby/com.ontim.dolby.LauncherActivity}" drawable="dolby" name="Dolby" />
+  <item component="ComponentInfo{com.dolby/com.dolby.ds1appUI.MainActivity}" drawable="dolby" name="Dolby" />
+  <item component="ComponentInfo{com.dolby.daxappui/com.dolby.daxappui.MainActivity}" drawable="dolby_atmos" name="Dolby Atmos" />
+  <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby" name="Dolby On" />
   <item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droid_ify" name="Droid-ify" />
   <item component="ComponentInfo{com.looker.droidify/com.looker.droidify.ui.activities.MainActivityX}" drawable="droid_ify" name="Droid-ify" />
   <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo" name="DuckDuckGo" />
@@ -199,6 +206,18 @@
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.Flipkart}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{money.fold.marble/money.fold.marble.ui.screen.splash.SplashActivity_original}" drawable="fold" name="Fold" />
+  <item component="ComponentInfo{com.franco.kernel/a.spl/com.franco.kernel.activities.SplashActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.MainActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.SplashActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.MainActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.Old}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.Original}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.WelcomeScreens.WelcomeScreenPager}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.license.check.LicenseCheckz}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.marclandis.francokernel.LicenseCheck}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/com.marclandis.francokernel.Main}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
+  <item component="ComponentInfo{com.franco.kernel/franco.KernelActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.Main}" drawable="galaxy_store" name="Galaxy Store" />
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_store" name="Galaxy Store" />
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SKSamsungMainActivity}" drawable="galaxy_store" name="Galaxy Store" />
@@ -206,6 +225,14 @@
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="gboard" name="Gboard" />
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard" name="Gboard" />
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" name="Gboard" />
+  <item component="ComponentInfo{arn.android.gcam/com.android.camera.CameraLauncher}" drawable="gcam" name="Google Camera Mod" />
+  <item component="ComponentInfo{com.ngcam.camera/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.samsung.agc.gcam88/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.samsung.agc.gcam90/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.samsung.agc.gcam91/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.agc.gcam88/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.agc.gcam90/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
+  <item component="ComponentInfo{com.agc.gcam91/com.android.camera.CameraLauncher}" drawable="gcam" name="Camera" />
   <item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="gemini" name="Gemini" />
   <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="github" name="GitHub" />
   <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github" name="GitHub" />
@@ -323,6 +350,9 @@
   <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages" name="Google Messages" />
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" name="Microsoft Authenticator" />
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}" drawable="microsoft_authenticator" name="Microsoft Authenticator" />
+  <item component="ComponentInfo{app.mihon/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="mihon" name="Mihon" />
+  <item component="ComponentInfo{app.mihon.debug/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="mihon" name="Mihon Debug" />
+  <item component="ComponentInfo{com.appsomniacs.da2/com.appsomniacs.da2.DA2Activity}" drawable="mini_militia" name="Mini Militia" />
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer" />
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.SplashActivity}" drawable="mixplorer" name="MiXplorer" />
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.TextEditorActivity}" drawable="mixplorer" name="MiXplorer" />
@@ -349,6 +379,24 @@
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player" name="MX Player Pro" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" name="MX Player Pro" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player" name="MX Player Pro" />
+    <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.AquaIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.CloudIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.DarkIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.MerioIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.NeonIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.NoxIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.OldSchoolIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.PremiumIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.RainbowIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.SpaceIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.TurboIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.VintageIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{nekox.messenger/org.telegram.messenger.DefaultIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.DefaultIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.MaterialIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.MusheenIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.ui.LaunchActivity}" drawable="nekogram" name="Nekogram" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.piyush.music.activities.main.MainActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.battlenet.showguide.SplashActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" name="Netflix" />
@@ -368,6 +416,20 @@
   <item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.main.MainActivity}" drawable="panoscrobbler" name="Pano Scrobbler" />
   <item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.Main}" drawable="panoscrobbler" name="Pano Scrobbler" />
   <item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="panoscrobbler" name="Pano Scrobbler" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.p2p}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}" drawable="paytm" name="Paytm" />
+  <item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="paytm" name="Paytm" />
+  <item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" name="Paytm" />
+  <item component="ComponentInfo{net.one97.paytm/net.one97.paytm.PaytmActivity}" drawable="paytm" name="Paytm" />
+  <item component="ComponentInfo{net.one97.paytm/net.one97.paytm.SplashActivity}" drawable="paytm" name="Paytm" />
+  <item component="ComponentInfo{com.phonepe.app/com.phonepe.app.ui.activity.Navigator_MainActivity}" drawable="phonepe" name="PhonePe" />
+  <item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe" name="PhonePe" />
+  <item component="ComponentInfo{com.phonepe.app.business/com.phonepe.app.business.MainActivity}" drawable="phonepe" name="PhonePe Business" />
+  <item component="ComponentInfo{com.phonepe.app.business/com.phonepe.app.business.SplashActivity}" drawable="phonepe" name="PhonePe Business" />
   <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" name="Pinterest" />
   <item component="ComponentInfo{com.pinterest/com.pinterest.activity.ExperimentPinterestActivity}" drawable="pinterest" name="Pinterest" />
   <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" name="Pinterest" />
@@ -495,6 +557,8 @@
   <item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" name="Stremio" />
   <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.home.HomeActivity}" drawable="swift_backup" name="Swift Backup" />
   <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" name="Swift Backup" />
+  <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" name="Tachiyomi" />
+  <item component="ComponentInfo{eu.kanade.tachiyomi.debug/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" name="Tachiyomi Debug" />
   <item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" name="Tachiyomi SY" />
   <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.AyuGramSpotify}" drawable="telegram" name="Telegram" />
   <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.MonetIcon}" drawable="telegram" name="Telegram" />
@@ -580,6 +644,7 @@
   <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi" />
   <item component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi Browser Snapshot" />
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search" name="Google Voice Search" />
+   <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsapp_business" name="WhatsApp Business" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon0}" drawable="whatsapp" name="WhatsApp" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon43}" drawable="whatsapp" name="WhatsApp" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp" name="WhatsApp" />
@@ -712,6 +777,14 @@
   <item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}" drawable="youtube_music" name="YouTube Music" />
   <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="youtube_music" name="YouTube Music" />
   <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" name="YouTube Music" />
+  <item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell}" drawable="youtube_rvx" name="YouTube ReVanced Extended" />
+  <item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube_rvx" name="YouTube ReVanced Extended" />
+  <item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube_rvx" name="YouTube ReVanced Extended" />
+  <item component="ComponentInfo{yt.rvx.noname.exe/com.google.android.youtube.app.honeycomb.Shell}" drawable="youtube_rvx" name="ReVanced Extended" />
+  <item component="ComponentInfo{yt.rvx.noname.exe/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" drawable="youtube_rvx" name="ReVanced Extended" />
+  <item component="ComponentInfo{yt.rvx.noname.exe/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube_rvx" name="ReVanced Extended" />
+  <item component="ComponentInfo{yt.rvx.noname.exe/com.google.android.youtube.app.application.Shell$HomeActivity}" drawable="youtube_rvx" name="ReVanced Extended" />
+  <item component="ComponentInfo{yt.rvx.noname.exe/com.google.android.apps.youtube.app.application.Shell_HomeActivity}" drawable="youtube_rvx" name="ReVanced Extended" />
   <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell}" drawable="youtube" name="YouTube" />
   <item component="ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}" drawable="youtube" name="YouTube" />
   <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="youtube" name="YouTube" />
