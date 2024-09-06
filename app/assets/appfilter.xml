@@ -379,7 +379,7 @@
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player" name="MX Player Pro" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" name="MX Player Pro" />
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player" name="MX Player Pro" />
-    <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.AquaIcon}" drawable="nekogram" name="Nekogram" />
+  <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.AquaIcon}" drawable="nekogram" name="Nekogram" />
   <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.CloudIcon}" drawable="nekogram" name="Nekogram" />
   <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.DarkIcon}" drawable="nekogram" name="Nekogram" />
   <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.MerioIcon}" drawable="nekogram" name="Nekogram" />
@@ -644,7 +644,7 @@
   <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi" />
   <item component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi Browser Snapshot" />
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search" name="Google Voice Search" />
-   <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsapp_business" name="WhatsApp Business" />
+  <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsapp_business" name="WhatsApp Business" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon0}" drawable="whatsapp" name="WhatsApp" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon43}" drawable="whatsapp" name="WhatsApp" />
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp" name="WhatsApp" />
