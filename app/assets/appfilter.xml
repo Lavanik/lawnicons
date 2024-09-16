@@ -388,6 +388,7 @@
   <item component="ComponentInfo{dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.activity.MainActivity}" drawable="folder_sync" name="FolderSync Pro" />
   <item component="ComponentInfo{dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity}" drawable="folder_sync" name="FolderSync Pro" />
   <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity}" drawable="foss_gallery" name="Gallery" />
+  <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity}" drawable="foss_gallery" name="Gallery" />
   <item component="ComponentInfo{com.franco.kernel/a.spl/com.franco.kernel.activities.SplashActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
   <item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
   <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.MainActivity}" drawable="franco_kernel_manager" name="Franco Kernel Manager" />
@@ -825,9 +826,7 @@
   <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.camera_activity1}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/com.android.medialist.PlayListActivity}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/com.freeme.gallery.app.GalleryNewActivity}" drawable="simple_gallery" name="Gallery" />
-  <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="simple_gallery" name="Gallery" />
-  <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.MainActivity}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/.app.GalleryActivity}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/.app.Gallery}" drawable="simple_gallery" name="Gallery" />
   <item component="ComponentInfo{com.android.gallery3d/com.acer.muse.app.GalleryActivity}" drawable="simple_gallery" name="Gallery" />
