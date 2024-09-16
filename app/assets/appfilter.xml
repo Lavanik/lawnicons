@@ -429,7 +429,7 @@
   <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail}" drawable="gmail" name="Gmail" />
   <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity}" drawable="gmail" name="Gmail" />
   <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ui.MailActivityGmailSafeMode}" drawable="gmail" name="Gmail" />
-  <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail1}" drawable="gmail_alt" name="Gmail"/>
+  <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail1}" drawable="gmail_alt" name="Gmail" />
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.archive.ReactivateActivity}" drawable="google_drive" name="Google Drive" />
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.HomeScreenActivity}" drawable="google_drive" name="Google Drive" />
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.MainProxyActivity}" drawable="google_drive" name="Google Drive" />
