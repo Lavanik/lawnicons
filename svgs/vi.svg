@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="24" height="24">
+	<title>vi-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m149 9.1h41.2v115.6h-41.2zm-13.4 0l-28.6 115.7h-78.4l-28.6-115.7h41.2l26.6 107.8 26.6-107.8zm34 173.9c-12.3 0-22.4-10-22.4-22.4 0-12.4 10.1-22.4 22.4-22.4 12.4 0 22.4 10 22.4 22.4 0 12.4-10 22.4-22.4 22.4z"/>
+</svg>
